@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @zacthinks
-- 👀 I’m interested in the philosophy and sociology of science
-- 📫 How to reach me: zacthinks@outlook.com
+👋 Hi! 
+I’m an interdisciplinary methodologist specializing in using computers to facilitate large-scale text analyses.
+
+📫 Feel free to contact me at zacthinks@outlook.com
 
 <!---
 zacthinks/zacthinks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
